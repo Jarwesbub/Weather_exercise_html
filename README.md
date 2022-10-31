@@ -1,3 +1,6 @@
+Remember to add your own API -key (weather.js) from the site: https://home.openweathermap.org/
+
+_______________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
